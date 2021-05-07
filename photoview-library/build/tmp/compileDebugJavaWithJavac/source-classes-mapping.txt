@@ -1,0 +1,66 @@
+uk/co/senab/photoview/PhotoViewAttacher.java
+ uk.co.senab.photoview.PhotoViewAttacher
+ uk.co.senab.photoview.PhotoViewAttacher$1
+ uk.co.senab.photoview.PhotoViewAttacher$2
+ uk.co.senab.photoview.PhotoViewAttacher$AnimatedZoomRunnable
+ uk.co.senab.photoview.PhotoViewAttacher$FlingRunnable
+ uk.co.senab.photoview.PhotoViewAttacher$OnMatrixChangedListener
+ uk.co.senab.photoview.PhotoViewAttacher$OnPhotoTapListener
+ uk.co.senab.photoview.PhotoViewAttacher$OnScaleChangeListener
+ uk.co.senab.photoview.PhotoViewAttacher$OnViewTapListener
+uk/co/senab/photoview/log/Logger.java
+ uk.co.senab.photoview.log.Logger
+uk/co/senab/photoview/touchevent/TouchEffectView.java
+ uk.co.senab.photoview.touchevent.TouchEffectView
+uk/co/senab/photoview/IPhotoView.java
+ uk.co.senab.photoview.IPhotoView
+uk/co/senab/photoview/touchevent/TouchEffectFactory.java
+ uk.co.senab.photoview.touchevent.TouchEffectFactory
+ uk.co.senab.photoview.touchevent.TouchEffectFactory$1
+ uk.co.senab.photoview.touchevent.TouchEffectFactory$1$1
+uk/co/senab/photoview/ProgressLoading.java
+ uk.co.senab.photoview.ProgressLoading
+uk/co/senab/photoview/scrollerproxy/GingerScroller.java
+ uk.co.senab.photoview.scrollerproxy.GingerScroller
+uk/co/senab/photoview/scrollerproxy/PreGingerScroller.java
+ uk.co.senab.photoview.scrollerproxy.PreGingerScroller
+uk/co/senab/photoview/gestures/EclairGestureDetector.java
+ uk.co.senab.photoview.gestures.EclairGestureDetector
+uk/co/senab/photoview/log/LoggerDefault.java
+ uk.co.senab.photoview.log.LoggerDefault
+uk/co/senab/photoview/scrollerproxy/ScrollerProxy.java
+ uk.co.senab.photoview.scrollerproxy.ScrollerProxy
+uk/co/senab/photoview/gestures/CupcakeGestureDetector.java
+ uk.co.senab.photoview.gestures.CupcakeGestureDetector
+uk/co/senab/photoview/gestures/VersionedGestureDetector.java
+ uk.co.senab.photoview.gestures.VersionedGestureDetector
+uk/co/senab/photoview/SizedStack.java
+ uk.co.senab.photoview.SizedStack
+uk/co/senab/photoview/gestures/FroyoGestureDetector.java
+ uk.co.senab.photoview.gestures.FroyoGestureDetector
+ uk.co.senab.photoview.gestures.FroyoGestureDetector$1
+uk/co/senab/photoview/log/LogManager.java
+ uk.co.senab.photoview.log.LogManager
+uk/co/senab/photoview/gestures/OnGestureListener.java
+ uk.co.senab.photoview.gestures.OnGestureListener
+uk/co/senab/photoview/ColourImageView.java
+ uk.co.senab.photoview.ColourImageView
+ uk.co.senab.photoview.ColourImageView$1
+ uk.co.senab.photoview.ColourImageView$2
+ uk.co.senab.photoview.ColourImageView$Model
+ uk.co.senab.photoview.ColourImageView$OnColorPickListener
+ uk.co.senab.photoview.ColourImageView$OnRedoUndoListener
+uk/co/senab/photoview/PhotoView.java
+ uk.co.senab.photoview.PhotoView
+uk/co/senab/photoview/OnDrawLineListener.java
+ uk.co.senab.photoview.OnDrawLineListener
+uk/co/senab/photoview/scrollerproxy/IcsScroller.java
+ uk.co.senab.photoview.scrollerproxy.IcsScroller
+uk/co/senab/photoview/DefaultOnDoubleTapListener.java
+ uk.co.senab.photoview.DefaultOnDoubleTapListener
+uk/co/senab/photoview/gestures/GestureDetector.java
+ uk.co.senab.photoview.gestures.GestureDetector
+uk/co/senab/photoview/Compat.java
+ uk.co.senab.photoview.Compat
+uk/co/senab/photoview/BuildConfig.java
+ uk.co.senab.photoview.BuildConfig
